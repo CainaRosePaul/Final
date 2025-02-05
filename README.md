@@ -1,4 +1,4 @@
-# Final
+# XAI
 Utilized H2O AutoML to find the best classification model for predicting death
 and determining its criticality.
 2023
